@@ -2,7 +2,7 @@ class Car {
     public:
         float size;
         void drive();
-        
+
         Car(float size);
 };
 
