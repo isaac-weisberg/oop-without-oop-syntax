@@ -7,7 +7,7 @@ class Engine {
 class Transmission {
     public:
         int gearCount;
-}
+};
 
 class Car {
     public:
